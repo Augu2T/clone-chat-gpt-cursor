@@ -1,4 +1,6 @@
-# 요구사항
+# clone-chat-gpt-cursor
+
+## 요구사항
 
 ## 프로젝트 목표
 
